@@ -1,0 +1,8 @@
+ir\ac\kntu\gamelogic\DiceController.class
+ir\ac\kntu\gamelogic\Dice.class
+ir\ac\kntu\gamelogic\GameBoard.class
+ir\ac\kntu\Main.class
+ir\ac\kntu\gamelogic\Life.class
+ir\ac\kntu\gamelogic\Person.class
+ir\ac\kntu\gamelogic\Snake.class
+ir\ac\kntu\gamelogic\TerminalPrinter.class
